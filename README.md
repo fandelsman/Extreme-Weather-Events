@@ -1,7 +1,7 @@
 # Extreme-Weather-Events
-Repository with data and code for master thesis "Tracking the Extremes: Quantifying Amplification and Attribution Factors in Extreme Weather Events", MSc Earth Sciences – Environmental Management at the University of Amsterdam
+Repository with data and code for master thesis "Tracking the Extremes: Quantifying Amplification and Attribution Factors in Extreme Weather Events", MSc Earth Sciences – Environmental Management at the University of Amsterdam.
 
-The analysis was performed using both Excel and Python. Each .py file specifies with an arrow the corresponding .xlsx file it is linked to, if applicable.
+The analysis was performed using both Excel and Python. Each .py file specifies with an arrow the corresponding .xlsx file it is linked to, if applicable. All data and code is in the zip file "FinalData_FAA".
 
 # Names of Excel files:
 
